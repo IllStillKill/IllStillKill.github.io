@@ -3,7 +3,7 @@ H1 {
   font-size: 200%;
   font-family: Arial, Verdana, sans-serif;
   text-align: center;
-  background: green;
+  color: green; 
 }
 P {
   padding-left: 20px;
